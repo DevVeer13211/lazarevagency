@@ -1,21 +1,21 @@
 @font-face {
   font-family: "NeueGroteskBold";
-  src: url("/NeueHaasDisplay-Bold.woff");
+  src: url("NeueHaasDisplay-Bold.woff");
 }
 
 @font-face {
   font-family: "NeueGroteskMedium";
-  src: url("/NeueHaasDisplay-Mediu.woff");
+  src: url("NeueHaasDisplay-Mediu.woff");
 }
 
 @font-face {
   font-family: "NeueGrotesk";
-  src: url("/NeueHaasDisplay-Roman.woff");
+  src: url("NeueHaasDisplay-Roman.woff");
 }
 
 @font-face {
   font-family: "NeueGroteskThin";
-  src: url("/NeueHaasDisplay-XThin.woff");
+  src: url("NeueHaasDisplay-XThin.woff");
 }
 
 * {
